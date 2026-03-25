@@ -15,4 +15,4 @@ pip install -r requirements.txt
 python main.py
 
 ## CLI in action
-![Uploading image.png…]()
+<img width="1938" height="1060" alt="image" src="https://github.com/user-attachments/assets/360f1cc1-623a-463d-86e4-59d295f72762" />
