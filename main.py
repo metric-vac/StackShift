@@ -1,11 +1,12 @@
 try:
+    import sys
     import nbtlib
     from nbtlib import Byte, String, Compound, List
     import os
     import json
 except Exception as e:
     print("Packages are missing, run 'pip install -r requirements.txt' to fix")
-
+    sys.exit()
 
 def clear_screen():
     # Clearing function
