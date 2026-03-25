@@ -15,3 +15,4 @@ pip install -r requirements.txt
 python main.py
 
 ## CLI in action
+![Uploading image.png…]()
