@@ -1,4 +1,1 @@
 nbtlib
-os
-json
-sys
