@@ -26,10 +26,12 @@ pip install -r requirements.txt
 4. Locate Your Minecraft World Folder
 You need the folder that contains level.dat.
 Common locations:
-```Windows
+Windows
+```
 C:\Users\YourName\AppData\Roaming\.minecraft\saves\YourWorld
 ```
-```Linux
+Linux
+```
 ~/.minecraft/saves/YourWorld
 ```
 5. Run the Script
