@@ -26,6 +26,7 @@ pip install -r requirements.txt
 4. Locate Your Minecraft World Folder
 You need the folder that contains level.dat.
 Common locations:
+
 Windows
 ```
 C:\Users\YourName\AppData\Roaming\.minecraft\saves\YourWorld
@@ -56,19 +57,25 @@ You’ll see:
 ```
 What each does:
  1 → View all items in your inventory
+ 
  2 → Change how many items you have
+ 
  3 → Move items to different slots
+ 
  4 → Add new items (e.g., minecraft:diamond)
+ 
  5 → Remove items
+ 
  0 → Save changes
-6. Save Your Changes
+
+   
 Press:
 0
 Then open Minecraft and check your inventory.
 >⚠️ Important Tips
- Close Minecraft before using StackShift (prevents file issues)
- Always use valid item IDs (like minecraft:diamond)
- Slots must be between 0–35 (main inventory)
+>Close Minecraft before using StackShift (prevents file issues)
+>Always use valid item IDs (like minecraft:diamond)
+>Slots must be between 0–35 (main inventory)
 
 
 ## CLI in action
