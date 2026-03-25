@@ -1,6 +1,8 @@
 # StackShift
 
-A simple Python tool to edit Minecraft inventories directly from level.dat.
+A fast and simple CLI tool to edit your Minecraft inventory directly from level.dat.
+
+Add, remove, and modify items instantly without opening the game.
 
 ## Features
 - View inventory
