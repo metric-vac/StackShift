@@ -47,6 +47,8 @@ When prompted:
 Enter the folder containing level.dat:
 Paste your world folder path (NOT the file, just the folder).
 ```
+<img width="1756" height="953" alt="image" src="https://github.com/user-attachments/assets/df40c940-280d-47b2-8e6c-6a853516dafc" />
+
 7. Use the Menu
 You’ll see:
 ```
